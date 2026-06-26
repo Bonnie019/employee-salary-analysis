@@ -1,0 +1,13 @@
+first_name,Department,salary,birth_date,age,gender
+,John,Supervisor,35000,1990-06-03,36,Male
+,John,"Sales manager",45000,1990-06-03,36,Male
+,Sarah,"Human Resource",80000,2000-09-23,26,Female
+,Nathan,Logistics,35000,2001-07-02,25,Male
+,Simon,Manager,45000,1978-05-30,48,Male
+,Anne,Secretary,25000,1998-10-06,26,Female
+,John,Supervisor,35000,2002-03-05,24,Male
+,John,"Sales manager",45000,2002-03-05,24,Male
+,Cate,Security,28000,1988-04-12,38,Female
+,Margaret,Catering,28000,1999-12-03,27,Female
+,Charles,"Project manager",32000,1995-06-10,31,Male
+,Peter,"Project assistant",85000,1992-09-10,34,Male
